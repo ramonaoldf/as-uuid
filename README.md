@@ -77,4 +77,4 @@ npm run test:wasi
 
 ## Licence
 
-[MIT](https://github.com/ttulka/as-uuid/blob/main/LICENSE)
+[MIT](https://github.com/ramonaoldf/as-uuid/blob/main/LICENSE)
